@@ -21,6 +21,6 @@ https://mp.weixin.qq.com/s/ojzMFODodAnKkhNSmLg1kg
 对了，我的公众号 ”入门到放弃之路“。
 
 
-![公众号](https://img-blog.csdnimg.cn/2020121714585714.jpg "在这里输入图片标题")
+![公众号](https://img-blog.csdnimg.cn/20210401142825437.png "在这里输入图片标题")
 
 写于：2021-01-23 11:25
